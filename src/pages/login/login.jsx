@@ -1,5 +1,6 @@
-import React from "react";
-import "../styles/login.scss";
+import React from 'react';
+
+import './login.scss';
 
 const Login = () => {
   return (
