@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { OrderItem } from '../../components/order-item/order-item';
+import { OrderItem } from '@components/order-item/order-item';
 
 import './checkout.scss';
 
